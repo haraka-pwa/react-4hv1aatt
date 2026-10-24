@@ -1,0 +1,17 @@
+{
+    "short_name": "AgroPro",
+      "name": "Калькулятор Маршруту",
+        "icons": [
+            {
+                  "src": "https://cdn-icons-png.flaticon.com/512/3095/3095941.png",
+                        "type": "image/png",
+                              "sizes": "512x512"
+                                  }
+                                    ],
+                                      "start_url": "/",
+                                        "display": "standalone",
+                                          "theme_color": "#0f172a",
+                                            "background_color": "#0f172a"
+                                            }
+                                            
+}
